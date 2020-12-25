@@ -18,6 +18,8 @@ Route::group(['middleware' => ['password-reset', 'guest']], function () {
     Route::resetPassword();
 });
 
+//login//
+
 /**
  * Two-Factor Authentication
  */
