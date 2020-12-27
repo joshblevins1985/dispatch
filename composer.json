@@ -46,7 +46,8 @@
         "vanguardapp/announcements": "^3.0",
         "vanguardapp/activity-log": "^3.0",
         "vanguardapp/plugins": "^3.0.0",
-        "webpatser/laravel-countries": "dev-master"
+        "webpatser/laravel-countries": "dev-master",
+        "farhanwazir/laravelgooglemaps": "^2.3"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
